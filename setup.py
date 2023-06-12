@@ -8,7 +8,7 @@ setup(
         "torch==1.6.0",
         "sentencepiece==0.1.91",
         "tensorflow==2.1.0",
-        "transformers==3.1.0",
+        "transformers==4.30.0",
     ],
     url="https://github.com/pingpong-ai/dialogue-generation-models.git",
     author="ScatterLab",
